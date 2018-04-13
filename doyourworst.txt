@@ -1,1 +1,1 @@
-dir > E:/dir.txt
+dir > E:\p.txt
